@@ -1,0 +1,11 @@
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\bin\Debug\Joy_Nelaton_Lab4.exe.config
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\bin\Debug\Joy_Nelaton_Lab4.exe
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\bin\Debug\Joy_Nelaton_Lab4.pdb
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\bin\Debug\Joy_Nelaton_Lab4.xml
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\obj\Debug\Joy_Nelaton_Lab4.vbprojResolveAssemblyReference.cache
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\obj\Debug\Joy_Nelaton_Lab4.Form1.resources
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\obj\Debug\Joy_Nelaton_Lab4.Resources.resources
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\obj\Debug\Joy_Nelaton_Lab4.vbproj.GenerateResource.Cache
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\obj\Debug\Joy_Nelaton_Lab4.exe
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\obj\Debug\Joy_Nelaton_Lab4.xml
+R:\PROYECTOS VB\Joy_Nelaton_Lab4\Joy_Nelaton_Lab4\obj\Debug\Joy_Nelaton_Lab4.pdb
